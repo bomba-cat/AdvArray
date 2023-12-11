@@ -10,3 +10,7 @@
 
 ## Notes
 The method "remove" does not exist on Boolean Arrays as it would remove every true or false statement in it. Instead use "removeItem"!
+
+#Side Notes
+##Important
+This library is really only ment for beginner projects and/or people who want to get a better understanding of how arrays work and is no way ment to be fast. It uses no special algorithm and mainly goes through each item inside the array. It will also not be good at handling large arrays. For larger projects we would recommend you make your own library or use one from another publisher.
